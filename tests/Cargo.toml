@@ -1,1 +1,8 @@
+[package]
+name = "icp_token"
+version = "0.1.0"
+edition = "2021"
 
+[dependencies]
+ic-cdk = "0.4"
+ic-cdk-macros = "0.4"
