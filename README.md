@@ -35,7 +35,11 @@ git commit -m "Initial commit with smart contract implementation"
 -----------------------------------------------------------------------------------------------------------------------
 git remote add origin https://github.com/yourusername/icp_token_wallet.git
 git push -u origin master
+----------------------------------------------------------------------------------------------------------------------
+Deployment and Testing
+Deploy the Contract: Follow the instructions in the README.md to deploy your smart contract to the ICP network.
 
+Run Tests: Use the cargo test command to validate your smart contract functionality.
 
 
 
